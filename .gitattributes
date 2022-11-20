@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0374c6dab4b581ecb2b09a051f2348f98e9a4190154de762b2fc554fb16e3245
-size 203
+global/s3/.terraform/providers/registry.terraform.io/hashicorp/aws/4.37.0/darwin_arm64/terraform-provider-aws_v4.37.0_x5
+*.ext filter=lfs diff=lfs merge=lfs -text
